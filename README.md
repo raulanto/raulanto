@@ -1,4 +1,4 @@
-### Espacio para subir trabajos de la universida
+### Espacio para subir trabajos de la universidad
 ### 
 
 <!--
