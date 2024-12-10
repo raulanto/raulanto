@@ -15,3 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Soy un apasionado por la programación y actualmente me desempeño como desarrollador Full Stack, con experiencia en:
+
+    Frontend: Creación de interfaces intuitivas y dinámicas utilizando Vue.js.
+    Backend: Desarrollo de APIs robustas y escalables con Django y otras tecnologías modernas.
+
+💡 Mis intereses incluyen:
+
+    Desarrollo de aplicaciones web dinámicas y eficientes.
+    Creación y consumo de APIs RESTful.
+    Mejora continua en tecnologías frontend y backend.
+
+Actualmente, estoy trabajando en proyectos que combinan Vue.js y Django, explorando la integración de estas tecnologías para crear soluciones completas.
+
+🚀 Estoy emocionado por contribuir a proyectos colaborativos y seguir aprendiendo de la comunidad!
