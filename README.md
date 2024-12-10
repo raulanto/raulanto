@@ -1,6 +1,3 @@
-### Espacio para subir trabajos de la universidad
-### 
-
 <!--
 **raulanto/raulanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,17 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Soy un apasionado por la programación y actualmente me desempeño como desarrollador Full Stack, con experiencia en:
+<h1>¡Hola! 👋</h1>
 
-    Frontend: Creación de interfaces intuitivas y dinámicas utilizando Vue.js.
-    Backend: Desarrollo de APIs robustas y escalables con Django y otras tecnologías modernas.
+<p>
+  Soy un apasionado por la programación y actualmente me desempeño como <strong>desarrollador Full Stack</strong>, 
+  con experiencia en:
+</p>
 
-💡 Mis intereses incluyen:
+<ul>
+  <li><strong>Frontend:</strong> Creación de interfaces intuitivas y dinámicas utilizando <strong>Vue.js</strong>.</li>
+  <li><strong>Backend:</strong> Desarrollo de APIs robustas y escalables con <strong>Django</strong>.</li>
+</ul>
 
-    Desarrollo de aplicaciones web dinámicas y eficientes.
-    Creación y consumo de APIs RESTful.
-    Mejora continua en tecnologías frontend y backend.
+<h3>💡 Mis intereses incluyen:</h3>
+<ul>
+  <li>Desarrollo de aplicaciones web dinámicas y eficientes.</li>
+  <li>Creación y consumo de APIs RESTful.</li>
+  <li>Mejora continua en tecnologías frontend y backend.</li>
+</ul>
 
-Actualmente, estoy trabajando en proyectos que combinan Vue.js y Django, explorando la integración de estas tecnologías para crear soluciones completas.
+<p>
+  Actualmente, estoy trabajando en proyectos que combinan <strong>Vue.js</strong> y <strong>Django</strong>, 
+  explorando cómo integrar estas tecnologías para crear soluciones completas.
+</p>
 
-🚀 Estoy emocionado por contribuir a proyectos colaborativos y seguir aprendiendo de la comunidad!
+<h3>🚀 ¡Estoy emocionado por contribuir a proyectos colaborativos y seguir aprendiendo de la comunidad!</h3>
