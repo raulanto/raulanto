@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,python,docker,c,vue,java,nuxt,pycharm,django,postman,mysql,figma" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,kubernetes,python,docker,c,vue,java,nuxt,pycharm,django,postman,mysql,figma,npm" />
   </a>
 </p>
