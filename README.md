@@ -34,6 +34,16 @@ Here are some ideas to get you started:
 <p>
   Actualmente, estoy trabajando en proyectos que combinan <strong>Vue.js</strong> y <strong>Django</strong>, 
   explorando cómo integrar estas tecnologías para crear soluciones completas.
+
+
+  📫 Contacto: **detretaty@gmail.com**
 </p>
 
 <h3>🚀 ¡Estoy emocionado por contribuir a proyectos colaborativos y seguir aprendiendo de la comunidad!</h3>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,python,docker,c,vue,java,nuxt,pycharm,django,postman,mysql,figma" />
+  </a>
+</p>
