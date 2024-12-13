@@ -1,3 +1,5 @@
+
+
 <h1>¡Hola! 👋</h1>
 
 <p>
@@ -17,17 +19,25 @@
   <li>Mejora continua en tecnologías frontend y backend.</li>
 </ul>
 
+<h3>🧠 Habilidades blandas:</h3>
+<ul>
+  <li><strong>Resolución de problemas:</strong> Capacidad para analizar y descomponer problemas complejos, identificando soluciones prácticas y eficientes.</li>
+  <li><strong>Abstracción y modelado:</strong> Habilidad para comprender y simplificar conceptos complejos, transformándolos en modelos claros y aplicables.</li>
+  <li><strong>Colaboración:</strong> Trabajo en equipo efectivo, promoviendo la comunicación abierta y el aprendizaje mutuo.</li>
+</ul>
+
 <p>
   Actualmente, estoy trabajando en proyectos que combinan <strong>Vue.js</strong> y <strong>Django</strong>, 
   explorando cómo integrar estas tecnologías para crear soluciones completas.
+</p>
 
-
-  📫 Contacto: **detretaty@gmail.com**
+<p>
+  📫 Contacto: <strong>detretaty@gmail.com</strong>
 </p>
 
 <h3>🚀 ¡Estoy emocionado por contribuir a proyectos colaborativos y seguir aprendiendo de la comunidad!</h3>
 
-<p> y tengo novia y la quiero mucho :heartbeat: </p>
+<p>🫶 También, tengo una persona especial en mi vida a quien quiero muchísimo. ❤️</p>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <p align="center">
