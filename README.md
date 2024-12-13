@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 
 <h3>🚀 ¡Estoy emocionado por contribuir a proyectos colaborativos y seguir aprendiendo de la comunidad!</h3>
 
+<p> y tengo novia y la quiero mucho :heartbeat: </p>
+
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
