@@ -32,7 +32,7 @@
 </p>
 
 <p>
-  📫 Contacto: <strong>detretaty@gmail.com</strong>
+  📫 Contacto: <strong>raulantodev@gmail.com/strong>
 </p>
 
 <h3>🚀 ¡Estoy emocionado por contribuir a proyectos colaborativos y seguir aprendiendo de la comunidad!</h3>
