@@ -26,7 +26,7 @@
   <li><strong>Colaboración:</strong> Trabajo en equipo efectivo, promoviendo la comunicación abierta y el aprendizaje mutuo.</li>
 </ul>
 
-<p>
+<p class="center">
   Actualmente, estoy trabajando en proyectos que combinan <strong>Vue.js</strong> y <strong>Django</strong>, 
   explorando cómo integrar estas tecnologías para crear soluciones completas.
 </p>
