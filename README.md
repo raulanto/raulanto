@@ -48,6 +48,6 @@
 <h2 >Tecnologías que estoy aprendiendo 📚</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=grapQl" />
+    <img src="https://skillicons.dev/icons?i=deno,dynamodb,redis,graphql" />
   </a>
 </p>
