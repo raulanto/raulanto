@@ -45,7 +45,7 @@ Portafolio : https://portafolio-rauantodev.vercel.app/
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,kubernetes,python,docker,c,vue,git,java,nuxt,pycharm,django,postman,mysql,figma,npm,pinia,mongodb,angular,postgresql,go" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,kubernetes,python,docker,c,vue,git,java,nuxt,pycharm,php,django,postman,mysql,figma,npm,pinia,mongodb,angular,postgresql,go" />
   </a>
 </p>
 <h2 >Tecnologías que estoy aprendiendo 📚</h2>
