@@ -43,14 +43,41 @@ Portafolio : https://portafolio-rauantodev.vercel.app/
 <p>🫶 También, tengo una persona especial en mi vida a quien quiero muchísimo. ❤️</p>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,kubernetes,python,docker,c,vue,git,java,nuxt,pycharm,php,django,postman,mysql,figma,npm,pinia,mongodb,angular,postgresql,go" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,postman,figma,npm,pinia," />
   </a>
 </p>
+<h2 >Frontend</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,css,ts,angular,vue,nuxt,django,astro" />
+  </a>
+</p>
+
+<h2 >Backend</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,laravel,go,php" />
+  </a>
+</p>
+
+
+<h2 >Data Base</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,supabe" />
+  </a>
+</p>
+
+
+
 <h2 >Tecnologías que estoy aprendiendo 📚</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,filament" />
+    <img src="https://skillicons.dev/icons?i=laravel" />
   </a>
 </p>
