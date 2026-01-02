@@ -1,6 +1,6 @@
 
 
-<h1>¡Hola! 👋</h1>
+<h1>¡Hola 2026! 👋</h1>
 
 <p>
   Soy un apasionado por la programación y actualmente me desempeño como <strong>desarrollador Full Stack</strong>, 
