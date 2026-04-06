@@ -1,81 +1,31 @@
+# Raúl Antonio
+### `Full Stack Developer`
 
+Desarrollador Full Stack con experiencia en la construcción de aplicaciones web robustas y escalables. Especializado en arquitecturas modernas que integran interfaces dinámicas con APIs de alto rendimiento, con enfoque en calidad de código, experiencia de usuario y soluciones orientadas a resultados.
 
-<h1>¡Hola 2026! 👋</h1>
+---
 
-<p>
-  Soy un apasionado por la programación y actualmente me desempeño como <strong>desarrollador Full Stack</strong>, 
-  con experiencia en:
-</p>
+## Áreas de especialización
 
-<ul>
-  <li><strong>Frontend:</strong> Creación de interfaces intuitivas y dinámicas utilizando <strong>Vue.js</strong>.</li>
-  <li><strong>Backend:</strong> Desarrollo de APIs robustas y escalables con <strong>Django</strong>.</li>
-</ul>
+| Frontend | Backend | Bases de datos | DevOps & Tooling |
+|----------|---------|----------------|------------------|
+| Interfaces dinámicas y accesibles con Vue.js, Angular y Nuxt — priorizando rendimiento y escalabilidad. | APIs RESTful con Django, Laravel y Go. Diseño de sistemas con integridad de datos y seguridad. | Modelado relacional y optimización de consultas en PostgreSQL, MySQL y Supabase. | Flujos de trabajo con Git, Docker, Kubernetes y Postman para entornos productivos. |
 
-<h3>💡 Mis intereses incluyen:</h3>
-<ul>
-  <li>Desarrollo de aplicaciones web dinámicas y eficientes.</li>
-  <li>Creación y consumo de APIs RESTful.</li>
-  <li>Mejora continua en tecnologías frontend y backend.</li>
-</ul>
+---
 
-<h3>🧠 Habilidades blandas:</h3>
-<ul>
-  <li><strong>Resolución de problemas:</strong> Capacidad para analizar y descomponer problemas complejos, identificando soluciones prácticas y eficientes.</li>
-  <li><strong>Abstracción y modelado:</strong> Habilidad para comprender y simplificar conceptos complejos, transformándolos en modelos claros y aplicables.</li>
-  <li><strong>Colaboración:</strong> Trabajo en equipo efectivo, promoviendo la comunicación abierta y el aprendizaje mutuo.</li>
-</ul>
-
-<p class="center">
-  Actualmente, estoy trabajando en proyectos que combinan <strong>Vue.js</strong>, <strong>Angular</strong> y <strong>Django</strong>, 
-  explorando cómo integrar estas tecnologías para crear soluciones completas.
-</p>
+## Stack tecnológico
 
 <p>
-  📫 Contacto: <strong>raulantodev@gmail.com</strong>
+  <img src="https://skillicons.dev/icons?i=vue,angular,nuxt,django,ts,js,laravel,go,php,nest,astro,postgresql,mysql,docker,kubernetes,figma,pinia,git" />
 </p>
 
-Portafolio : https://portafolio-rauantodev.vercel.app/
+**Actualmente explorando:** Laravel
 
+---
 
-<h3>🚀 ¡Estoy emocionado por contribuir a proyectos colaborativos y seguir aprendiendo de la comunidad!</h3>
+## Contacto
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+- **Portafolio:** [portafolio-rauantodev.vercel.app](https://portafolio-rauantodev.vercel.app/)
+- **Email:** raulantodev@gmail.com
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,postman,figma,npm,pinia," />
-  </a>
-</p>
-<h2 >Frontend</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,ts,angular,vue,nuxt,django,astro" />
-  </a>
-</p>
-
-<h2 >Backend</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,laravel,go,php" />
-  </a>
-</p>
-
-
-<h2 >Data Base</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,supabe" />
-  </a>
-</p>
-
-
-
-<h2 >Tecnologías que estoy aprendiendo 📚</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel" />
-  </a>
-</p>
+> Disponible para proyectos colaborativos.
