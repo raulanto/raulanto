@@ -27,7 +27,7 @@
 </ul>
 
 <p class="center">
-  Actualmente, estoy trabajando en proyectos que combinan <strong>Vue.js</strong> y <strong>Django</strong>, 
+  Actualmente, estoy trabajando en proyectos que combinan <strong>Vue.js</strong>, <strong>Angular</strong> y <strong>Django</strong>, 
   explorando cómo integrar estas tecnologías para crear soluciones completas.
 </p>
 
