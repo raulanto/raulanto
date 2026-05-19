@@ -16,7 +16,7 @@ Desarrollador Full Stack con experiencia en la construcción de aplicaciones web
 ## Stack tecnológico
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,angular,nuxt,django,ts,js,laravel,go,php,nest,astro,postgresql,mysql,docker,kubernetes,figma,pinia,git" />
+  <img src="https://skillicons.dev/icons?i=vue,angular,nuxt,django,net,ts,js,laravel,go,php,nest,astro,postgresql,mysql,docker,kubernetes,figma,pinia,git" />
 </p>
 
 **Actualmente explorando:** .NET
