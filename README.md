@@ -19,7 +19,7 @@ Desarrollador Full Stack con experiencia en la construcción de aplicaciones web
   <img src="https://skillicons.dev/icons?i=vue,angular,nuxt,django,ts,js,laravel,go,php,nest,astro,postgresql,mysql,docker,kubernetes,figma,pinia,git" />
 </p>
 
-**Actualmente explorando:** Laravel
+**Actualmente explorando:** .NET
 
 ---
 
