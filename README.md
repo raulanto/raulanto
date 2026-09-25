@@ -21,7 +21,10 @@ Desarrollador Full Stack con experiencia en el diseño, desarrollo e implementac
 **Actualmente explorando:** Flutter
 
 ---
-
+## intereses
+<p>
+  <img  src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/omarchy.png" />
+</p>
 ## Contacto
 
 - **Portafolio:** [portafolio-rauantodev.vercel.app](https://portafolio-rauantodev.vercel.app/)
