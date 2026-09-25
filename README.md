@@ -2,7 +2,7 @@
 ### `Full Stack Developer`
 
 Desarrollador Full Stack con experiencia en el diseño, desarrollo e implementación de aplicaciones web robustas y escalables, desde el front-end hasta la infraestructura de despliegue. Especializado en arquitecturas modernas que integran interfaces reactivas (Angular con signals y componentes standalone) con APIs de alto rendimiento (NestJS, ASP.NET Core, Go, Rust, FastAPI), aplicando principios de arquitectura hexagonal y diseño orientado al dominio (DDD). Enfoque constante en calidad de código, mantenibilidad, experiencia de usuario y entrega de soluciones orientadas a resultados de negocio.
----
+
 
 ## Áreas de especialización
 
