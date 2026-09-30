@@ -24,7 +24,7 @@ Desarrollador Full Stack con experiencia en el diseño, desarrollo e implementac
 
 ## Contacto
 
-- **Portafolio:** [portafolio-rauantodev.vercel.app](https://portafolio-rauantodev.vercel.app/)
+- **Portafolio:** [https://rauantodev.vercel.app/](https://rauantodev.vercel.app/)
 - **Email:** raulantodev@gmail.com
 
 > Disponible para proyectos colaborativos.
