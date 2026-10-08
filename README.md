@@ -15,7 +15,7 @@ Desarrollador Full Stack con experiencia en el diseño, desarrollo e implementac
 ## Stack tecnológico
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,angular,fastapi,nuxt,django,ts,js,laravel,go,php,nest,astro,postgresql,mysql,docker,kubernetes,figma,pinia,git,net,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=vue,angular,fastapi,nuxt,django,ts,js,rust,laravel,go,php,nest,astro,postgresql,mysql,docker,kubernetes,figma,pinia,git,net,dart,flutter" />
 </p>
 
 **Actualmente explorando:** Flutter
